@@ -1,6 +1,6 @@
 {
   "name": "@regularwave/beleren-bold-woff2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Beleren Bold typeface as woff2",
   "main": "css/beleren-bold-w2.css",
   "style": "css/beleren-bold-w2.css",
