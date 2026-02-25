@@ -1,12 +1,18 @@
 {
-  "name": "@saeris/typeface-beleren-bold",
+  "name": "@regularwave/beleren-bold-woff2",
   "version": "1.0.0",
-  "description": "Beleren Bold Typeface",
-  "repository": "https://github.com/Saeris/typeface-beleren-bold/",
+  "description": "Beleren Bold typeface as woff2",
+  "main": "css/beleren-bold-w2.css",
+  "style": "css/beleren-bold-w2.css",
+  "files": [
+    "css/",
+    "fonts/"
+  ],
+  "author": "regularwave",
   "license": "MIT",
-  "main": "index.css",
-  "scripts": {
-    "release": "yarn publish --access public"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/regularwave/beleren-bold-woff2.git"
   },
   "keywords": [
     "typeface",

@@ -1,0 +1,29 @@
+/* Beleren Bold */
+@font-face {
+  font-family: "Beleren Bold";
+  src: url("../fonts/Beleren-Bold-w2.woff2") format("woff2");
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+  text-rendering: optimizeLegibility;
+}
+
+/* Beleren SmallCaps Bold */
+@font-face {
+  font-family: "Beleren SmallCaps Bold";
+  src: url("../fonts/Beleren-SmallCaps-Bold-w2.woff2") format("woff2");
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+  text-rendering: optimizeLegibility;
+}
+
+/* Beleren SmallCaps BoldItalic */
+@font-face {
+  font-family: "Beleren SmallCaps BoldItalic";
+  src: url("../fonts/Beleren-SmallCaps-BoldItalic-w2.woff2") format("woff2");
+  font-style: italic;
+  font-weight: bold;
+  font-display: swap;
+  text-rendering: optimizeLegibility;
+}
